@@ -1,0 +1,15 @@
+{
+  "name": "resourcelib",
+  "version": "1.0.0",
+  "description": "资源库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.4"
+  }
+}
