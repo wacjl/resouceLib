@@ -2,7 +2,7 @@ const path = require("path");
 var CopyWebpackPlugin = require("copy-webpack-plugin");
 let copyData = [
   {
-    from: "src/common",
+    from: "src/gxj",
     to: [
       "../fl-enterprise-front/src/resource/common",
       "../fl-admin-front/src/resource/common",
