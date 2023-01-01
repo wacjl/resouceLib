@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "copy-webpack-plugin": "^5.0.4"
+    "copy-webpack-plugin": "^11.0.0"
   }
 }
